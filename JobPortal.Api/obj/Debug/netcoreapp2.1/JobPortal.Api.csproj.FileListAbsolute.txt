@@ -1,0 +1,14 @@
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.csprojAssemblyReference.cache
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.csproj.CoreCompileInputs.cache
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.RazorAssemblyInfo.cache
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.RazorAssemblyInfo.cs
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.AssemblyInfoInputs.cache
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.AssemblyInfo.cs
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\bin\Debug\netcoreapp2.1\JobPortal.Api.deps.json
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\bin\Debug\netcoreapp2.1\JobPortal.Api.runtimeconfig.json
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\bin\Debug\netcoreapp2.1\JobPortal.Api.runtimeconfig.dev.json
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\bin\Debug\netcoreapp2.1\JobPortal.Api.dll
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\bin\Debug\netcoreapp2.1\JobPortal.Api.pdb
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.RazorTargetAssemblyInfo.cache
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.dll
+C:\development\wema\Projects\JobPortalSolution\JobPortal.Api\obj\Debug\netcoreapp2.1\JobPortal.Api.pdb
